@@ -6,7 +6,7 @@
 - 📫 How to reach me **mansisingla31215@gmail.com**
 
 - My primary coding language: **C++**
-- My Portfolio: https://mansi-singla-31215.github.io/my-portfolio-website/
+- My Portfolio: **https://mansi-singla-31215.github.io/my-portfolio-website/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
